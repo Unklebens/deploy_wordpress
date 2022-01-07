@@ -1,4 +1,4 @@
-- src: https://github.com/sadofrazer/docker_role.git
-- src: sadofrazer.docker_role
-- src: sadofrazer.wordpress_role
-- src: https://github.com/sadofrazer/wordpress_role.git
+- src: https://github.com/Unklebens/docker_role.git
+- src: unklebens.docker_role
+- src: unklebens.wordpress_role
+- src: https://github.com/Unklebens/wordpress_role.git
